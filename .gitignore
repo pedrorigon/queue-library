@@ -1,0 +1,13 @@
+# Ignore build artifacts
+build/
+examples/*.o
+examples/queue_example
+
+# Ignore editor-specific files
+.vscode/
+*.swp
+*.swo
+*.bak
+
+# Ignore debug logs
+*.log
